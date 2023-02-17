@@ -1,5 +1,5 @@
 #### Platform&Tools
-[![](https://img.shields.io/badge/macOS%20Ventura-13.1-orange?style=flat-square&logo=apple)]([https://www.microsoft.com/windows/get-windows-10](https://www.apple.com/mo/macos/ventura/))
+[![](https://img.shields.io/badge/macOS%20Ventura-13.1-orange?style=flat-square&logo=apple)](https://www.apple.com/mo/macos/ventura/)
 [![](https://img.shields.io/badge/Ubuntu%20Server-18.04%20LTS-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Apple-iPhone12%20Pro-435A6B?style=flat-square&logo=apple)](https://www.apple.com.cn/iphone/)
 [![](https://img.shields.io/badge/Apple-iPad%20Pro%2012.9(5th)-lightgrey?style=flat-square&logo=apple)](https://www.apple.com.cn/ipad-pro/)
@@ -16,9 +16,7 @@
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Docker-53B4E8?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- 
+<p align="center"> 
   
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArMiku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ArMiku's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArMiku&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
