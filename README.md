@@ -1,28 +1,31 @@
+#### Platform&Tools
+[![](https://img.shields.io/badge/macOS%20Ventura-13.1-orange?style=flat-square&logo=apple)]([https://www.microsoft.com/windows/get-windows-10](https://www.apple.com/mo/macos/ventura/))
+[![](https://img.shields.io/badge/Ubuntu%20Server-18.04%20LTS-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Apple-iPhone12%20Pro-435A6B?style=flat-square&logo=apple)](https://www.apple.com.cn/iphone/)
+[![](https://img.shields.io/badge/Apple-iPad%20Pro%2012.9(5th)-lightgrey?style=flat-square&logo=apple)](https://www.apple.com.cn/ipad-pro/)
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Clion-65D791?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
+
+[![](https://img.shields.io/badge/-C++-3C7BB8?style=flat-square&logo=c%2B%2B)](https://cplusplus.com/)
+[![](https://img.shields.io/badge/-Python-3C7BB8?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Pytorch-Dc583A?style=flat-square&logo=pytorch&logoColor=white)](https://www.pytorch.org/)
+
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Latex-377E7F?style=flat-square&logo=latex)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Docker-53B4E8?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
-    😆 Hey! Welcome to my profile
-    <br />
-    <br />🍉 Take a look at my stats  🌱
-    <br />
-    <br />
-  </samp>
-
+ 
+  
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArMiku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ArMiku's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArMiku&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
 
 <br />
-
-<p align="right">
-<a><img height="20" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
-<a><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
-<a><img height="20" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></a>
-<a><img height="20" alt="markdown" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/markdown/markdown.png"></a>
-<a><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a> 
-</p>
 
 
 <!--
