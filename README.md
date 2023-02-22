@@ -16,12 +16,12 @@
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Docker-53B4E8?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-<p align="center"> 
+<!-- <p align="center"> 
   
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArMiku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ArMiku's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArMiku&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
-</p>
+</p> -->
 
 <br />
 
