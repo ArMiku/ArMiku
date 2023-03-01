@@ -18,7 +18,7 @@
 
 <p align="center"> 
   
-| <a> <img align="center" src="https://github-readme-stats-3k52t0wjr-armiku.vercel.app/api?username=armiku&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="ArMiku's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats-3k52t0wjr-armiku.vercel.app/api/top-langs/?username=armiku&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=armiku&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="ArMiku's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armiku&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
