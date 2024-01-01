@@ -1,7 +1,7 @@
 #### Platform&Tools
 [![](https://img.shields.io/badge/macOS-Ventura-orange?style=flat-square&logo=apple)](https://www.apple.com/mo/macos/ventura/)
 [![](https://img.shields.io/badge/Ubuntu%20Server-18.04%20LTS-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Apple-iPhone12%20Pro-435A6B?style=flat-square&logo=apple)](https://www.apple.com.cn/iphone/)
+[![](https://img.shields.io/badge/Apple-iPhone15%20Pro%20Max-435A6B?style=flat-square&logo=apple)](https://www.apple.com.cn/iphone/)
 [![](https://img.shields.io/badge/Apple-iPad%20Pro%2012.9(5th)-lightgrey?style=flat-square&logo=apple)](https://www.apple.com.cn/ipad-pro/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
