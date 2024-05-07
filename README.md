@@ -6,6 +6,7 @@
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-CLion-65D791?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/IDE-PyCharm-a03fc0?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 
 [![](https://img.shields.io/badge/-C++-3C7BB8?style=flat-square&logo=c%2B%2B)](https://cplusplus.com/)
 [![](https://img.shields.io/badge/-Python-3C7BB8?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
